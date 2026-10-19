@@ -1,3 +1,11 @@
+# My GitHub Repository
+
+![GitHub Repo] (qr_codes/QRCode_20261019225235.png "My QR Code Link")
+
+# My Docker Hub
+
+![Docker Hub] (qr_codes/QRCode_20261019225750.png "My QR Code Link")
+
 # 📦 Project Setup
 
 ---
